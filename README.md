@@ -4,7 +4,7 @@ Gabriel Ferreira RA: 10442043
 
 Gian Lucca Campanha Ribeiro RA: 10438361
 
-Henrique Cipola RA: [Completar]
+Enrique Cipolla Martins - RA: 10427834
 
 ## Instruções para Execução:
 ### Estrutura de arquivos:
